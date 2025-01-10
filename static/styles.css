@@ -1,0 +1,23 @@
+.table {
+    display: table;
+    border-collapse: collapse;
+    width: 100%;
+}
+.table.header {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+.row {
+    display: table-row;
+}
+.cell {
+    display: table-cell;
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+.row.header .cell {
+    font-weight: bold;
+    background-color: #f4f4f4;
+}

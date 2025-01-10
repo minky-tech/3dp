@@ -1,0 +1,56 @@
+[
+    {
+        "item": "48mm Stepper Motor",
+        "category": "Motors",
+        "cost": "<a href='https://www.amazon.com/dp/B00PNEQKC0'>Amazon: $15.14</a>",
+        "notes": "e3pro Y"
+    },
+    {
+        "item": "40mm Stepper Motor",
+        "category": "Motors",
+        "cost": "<a href='https://www.amazon.com/dp/B00PNEQI7W'>Amazon: $14.06</a>",
+        "notes": "e3pro X"
+    },
+    {
+        "item": "MGN12H x 300-320?mm",
+        "category": "Motion",
+        "cost": "<a href=''>$20?</a>",
+        "notes": "e3pro X"
+    },
+    {
+        "item": "(2) 12mm rod x 400?mm<",
+        "category": "Motion",
+        "cost": "<a href=''>$15?</a>",
+        "notes": "e3pro Y"
+    },
+    {
+        "item": "(2) 8mm rod x 400?mm",
+        "category": "Motion",
+        "cost": "<a href=''>$12?</a>",
+        "notes": "e3pro Z"
+    },
+    {
+        "item": "Gratkit PETG",
+        "category": "Filament",
+        "cost": "<a href='https://www.amazon.com/dp/B0CJVC718Z'>$14.06</a>",
+        "notes": "-"
+    },
+    {
+        "item": "CC3D PETG",
+        "category": "Filament",
+        "cost": "<a href='https://www.amazon.com/dp/B086QCQ27Q'>$14.06</a>",
+        "notes": "-"
+    },
+    {
+        "item": "Motor",
+        "category": "squirrelfan",
+        "cost": "<a href='https://a.aliexpress.com/_mNFqrvp'>$9.49</a>",
+        "notes": "-"
+    },
+    {
+        "item": "ESC",
+        "category": "squirrelfan",
+        "cost": "<a href='https://a.aliexpress.com/_mNFqrvp'>$9.49</a>",
+        "notes": "-"
+    }
+]
